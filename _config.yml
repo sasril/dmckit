@@ -1,1 +1,6 @@
-theme: jekyll-theme-slate
+#theme: jekyll-theme-slate
+remote_theme: pages-themes/architect@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+title: Microsoft Datacenter Optimization Program Kit
+description: Set of materials in a form of documents, deck and external links to help CSP Partners with their migration journey
